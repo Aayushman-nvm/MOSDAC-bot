@@ -1,0 +1,36 @@
+{
+  "mission": "SCATSAT-1",
+  "baseUrl": "https://www.mosdac.gov.in/scatsat-1",
+  "subPages": [
+    {
+      "title": "SCATSAT-1",
+      "url": "https://www.mosdac.gov.in/scatsat-1",
+      "content": "<p>Scatsat-1 was launched by PSLV-C35 from Satish Dhawan Space Centre, Sriharikota on September 26, 2016. It carries the Ku-band Pencil Beam scatterometer (SCAT) payload developed by SAC-ISRO.</p>"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://www.mosdac.gov.in/scatsat-1-introduction",
+      "content": "<p><span>I</span>ndian Space Research Organisation launched SCATSAT-1 for ocean and weather related studies and seven co-passenger satellites into polar Sun Synchronous Orbit (SSO) on September 26, 2016. The Polar Satellite Launch Vehicle, in its 37th flight, (PSLV-C35) launched the satellites at 9:12 hours on September 26, 2016 from Satish Dhawan Space Centre in Sriharikota. The 377 kg SCATSAT-1 satellite have satellites from Algeria, Canada and USA, as well as two satellites from Indian Universities as its co-passengers. SCATSAT-1 is placed into a 720 km Polar Sun Synchronous Orbit, whereas the two Universities' satellites and the five foreign satellites are placed into a 670 km polar orbit. This PSLV mission is unique in itself as it is for the first time that its payloads are placed into two different orbits. PSLV-C35 launched from the First Launch Pad (FLP) of Satish Dhawan Space Centre and is the 15th flight of PSLV in 'XL' configuration (with the use of solid strap-on motors).</p>\n<p align=\"center\"><img title=\"Scatsat Configuration\" src=\"/images//scatsat_intro.jpeg\" alt=\"Scatsat Configuration\"></p>"
+    },
+    {
+      "title": "Objectives",
+      "url": "https://www.mosdac.gov.in/scatsat-1-objectives",
+      "content": "<p><span>T</span>he Indian satellite SCATSAT-1 is a miniature satellite dedicated to ocean wind observation. It is preceded by Oceansat-2 which was also dedicated for the same objective. Major objectives of SCATSAT-1 is weather forecasting, cyclone prediction along with ocean state monitoring and prediction. It is currently catering towards weather and climate sector, naval and shipping operations, renewable energy sector along with tracking services to India as well as to the world.</p>"
+    },
+    {
+      "title": "SpaceCraft",
+      "url": "https://www.mosdac.gov.in/scatsat-1-spacecraft",
+      "content": "<p><span>S</span>CATSAT-1 is envisaged to provide continuity of operational services of OSCAT (IRS-P4) with enhanced application potential.</p>\n<p><span style=\"background-color: #ffffff;\"><img id=\"center-img\" style=\"vertical-align: middle;\" title=\"Spacecraft\" src=\"/images/scatsat_spacecraft.jpg\" alt=\"Spacecraft\" width=\"630\" height=\"390\" align=\"middle\"></span></p>\n<table style=\"margin-left: auto; margin-right: auto;\" cellpadding=\"5px\" align=\"center\" bgcolor=\"9EC2F8\">\n<tbody>\n<tr>\n<td>Launch date:</td>\n<td>September 26, 2016</td>\n</tr>\n<tr>\n<td>Launch site:</td>\n<td>SDSC (Satish Dhawan Space Centre), Sriharikota.</td>\n</tr>\n<tr>\n<td>Launch vehicle;</td>\n<td>PSLV - C35</td>\n</tr>\n<tr>\n<td>Orbit:</td>\n<td>Sun Synchronous, dawn-dusk orbit</td>\n</tr>\n<tr>\n<td>Altitude:</td>\n<td>720 km</td>\n</tr>\n<tr>\n<td>Inclination:</td>\n<td>97.4°</td>\n</tr>\n<tr>\n<td>Local Time on Ascending Node</td>\n<td>6:00 hours</td>\n</tr>\n<tr>\n<td>Repetitivity:</td>\n<td>2 days</td>\n</tr>\n<tr>\n<td>Payloads:</td>\n<td>Scatterometer</td>\n</tr>\n<tr>\n<td>Mass at lift off:</td>\n<td>310 Kg</td>\n</tr>\n<tr>\n<td>Power:</td>\n<td>15 Sq.m Solar panels generating 1360W, Two 24 Ah Ni-Cd Battries</td>\n</tr>\n<tr>\n<td>Mission Life:</td>\n<td>5 years</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "title": "Payloads",
+      "url": "https://www.mosdac.gov.in/scatsat-1-payloads",
+      "content": "<p><span>T</span>he scientific payload contains the Scanning Scatterometer (SCAT) instrument.</p>\n<p style=\"font-size: 1.3em; color: #0f3393; font-weight: bold;\">Scanning Scatterometer (SCAT)</p>\n<p style=\"font-size: 1.3em; color: #0f3393; font-weight: bold;\"><img style=\"vertical-align: middle;\" title=\"Observation Geometry of SCAT Instrument\" src=\"/images/scatsat_scat.jpeg\" alt=\"scat observation\" width=\"350\" height=\"250\" align=\"middle\"></p>\n<p>SCAT is an active microwave device designed and developed at SAC/ISRO, Ahmedabad. It is used to determine ocean surface level wind vectors through estimation of radar backscatter. The scatterometer system has a 1-m parabolic dish antenna and a dual feed assembly to generate two pencil beams and is scanned at a rate of 20.5 rpm to cover the entire swath. The Ku-band pencil beam scatterometer is an active microwave radar operating at 13.515 GHz providing a ground resolution cell of size 25 x 25 km. The parabolic dish antenna of 1 meter diameter is offset mounted with a cant angle of about 46 degree with respect to earth viewing axis. This antenna is continuously rotated at 20.5 rpm using a scan mechanism with the scan axis along the +ve Yaw axis. By using two offset feeds at the focal plane of the antenna, two beams are generated which will conically scan the ground surface. The back scattered power in each beam from the ocean surface is measured to derive wind vector. The inner beam makes an incidence angle of 48.90<sup>0</sup> and the outer beam makes an incidence angle of 57.60<sup>0</sup> on the ground. It covers a continuous swath of 1400 km for inner beam and 1840 km for outer beam respectively. The inner and outer beams are configured in horizontal and vertical polarization respectively for both transmit and receive modes. The aim is to provide global ocean coverage and wind vector retrieval with a revisit time of 2 days.</p>\n<table style=\"text-align: center;\" border=\"1\" cellpadding=\"5px\" align=\"center\" bgcolor=\"9EC2F8\">\n<tbody>\n<tr>\n<td>Parameter</td>\n<td>Inner beam</td>\n<td>Outer beam</td>\n</tr>\n<tr>\n<td>Orbital altitude</td>\n<td colspan=\"2\">720 km</td>\n</tr>\n<tr>\n<td>Instrument frequency</td>\n<td colspan=\"2\">13.515 GHz (Ku-band)</td>\n</tr>\n<tr>\n<td>Wind speed range</td>\n<td colspan=\"2\">3-30 m/s, accuracy of 1.8 m/s (rms) or 10%</td>\n</tr>\n<tr>\n<td>Wind direction</td>\n<td colspan=\"2\">0<sup>0</sup> to 360<sup>0</sup>, accuracy of 20<sup>0</sup> rms</td>\n</tr>\n<tr>\n<td>Wind vector cell size (resolution)</td>\n<td colspan=\"2\">25 km x 25 km grid</td>\n</tr>\n<tr>\n<td>Polarization</td>\n<td>HH</td>\n<td>VV</td>\n</tr>\n<tr>\n<td>Swath width</td>\n<td>1400 km</td>\n<td>1840 km</td>\n</tr>\n<tr>\n<td>Scanning circle radius</td>\n<td>700 km</td>\n<td>920 km</td>\n</tr>\n<tr>\n<td>Scanning rate</td>\n<td colspan=\"2\">20.5 rpm</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "title": "Documents",
+      "url": "https://www.mosdac.gov.in/scatsat-1-references",
+      "content": "<p><a title=\"The pdf file open in new window.\" href=\"/docs/scatsat_level4_dataproducts.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">SCATSAT Level4 Products <img src=\"/images/PDF.gif\" alt=\"\" width=\"20\" height=\"20\"></a>&nbsp;<span style=\"font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif; font-size: 13.008px;\">(Size:968 KB Format:PDF Tool:PDFViewer)</span></p>"
+    }
+  ]
+}

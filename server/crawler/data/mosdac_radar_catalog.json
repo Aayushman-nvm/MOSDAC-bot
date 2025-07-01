@@ -1,0 +1,61 @@
+[
+  {
+    "sensor": "S BAND DWR CHERRAPUNJI",
+    "table": [
+      [
+        "1",
+        "RSCHR_L2B_STD",
+        "DWR Data for Cheerapunji",
+        "L2B",
+        "10 MINUTES",
+        "2016-05-20",
+        "2022-11-05",
+        "Active",
+        ""
+      ]
+    ]
+  },
+  {
+    "sensor": "S BAND DWR SHAR",
+    "table": [
+      [
+        "1",
+        "RSSHR_L2B_STD",
+        "DWR Data for SHAR",
+        "L2B",
+        "10 MINUTES",
+        "2018-08-30",
+        "2023-03-31",
+        "Active",
+        ""
+      ]
+    ]
+  },
+  {
+    "sensor": "TERLS C BAND",
+    "table": [
+      [
+        "1",
+        "RCTLS_L2B_STD",
+        "Standard products from TERLS Doppler weather radar received at every 10 minutes interval",
+        "L2B",
+        "10 MINUTES",
+        "2016-03-09",
+        "2025-06-29",
+        "Active",
+        ""
+      ],
+      [
+        "2",
+        "RCTLS_L2C_VOL",
+        "Volumetric gridded data of TERLS DWR,using DPRF mode files only,containing corrected reflectivity(DBZ) and radial velocity(VEL)",
+        "L2C",
+        "10 MINUTES",
+        "2023-09-01",
+        "2025-06-29",
+        "Active",
+        ""
+      ]
+    ]
+  }
+]

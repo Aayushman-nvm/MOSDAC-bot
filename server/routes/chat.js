@@ -15,22 +15,31 @@ router.post("/mosdac", async (req, res) => {
   }
 
   try {
+    console.log("MOSDAC DATA STORE: ", mosdacDataStore);
     const relevantContent = getRelevantMosdacContent(
       userMessage,
       mosdacDataStore
     );
+    console.log("RELEVANT CONTENT: ", relevantContent);
 
     let prompt;
     if (relevantContent) {
-      prompt = `User's question: ${userMessage}
+      prompt = `You are a concise ISRO MOSDAC assistant.
+      User's question: ${userMessage}
       Below is ISRO MOSDAC official data related to the query:
       ${relevantContent}
-      Please answer the user's query clearly, using the above data, in a friendly, conversational tone.`;
+      Instructions:
+      - Answer clearly using the above data.
+      - Keep the answer concise (max 1-2 short paragraphs).
+      - Do not provide overly detailed explanations.
+      - Avoid repetition.
+      - Use a friendly, conversational tone.
+      - If unsure, state so briefly.`;
     } else {
       prompt = `User's question: ${userMessage}
       No direct MOSDAC dataset was found for this query. Please answer to the best of your knowledge, letting the user know data may be limited.`;
     }
-
+    console.log("PROMPT: ", prompt);
     const geminiResponse = await askGemini(prompt);
 
     res.json({ answer: geminiResponse });
